@@ -89,7 +89,7 @@ plaintext
 ├── Attack_Documentation.pdf # Full detailed report of all 14 attacks
 ├── Attack_Scripts/          # Scripts, commands, and code used
 ├── Screenshots/            # Proof and evidence of each attack
-└── GT_CyberSec_Project.zip  # FULL PROJECT: all files, docs, and resources
+└── Data_preprocessing_and_training.py  # FULL PROJECT: all files, docs, and resources
 Note: All content here is for educational and ethical purposes only. No real external systems were targeted or harmed.
 Skills Demonstrated
 Ethical hacking & penetration testing
