@@ -1,8 +1,9 @@
 # Cybersecurity Attack Demonstration Project
 GitHub: NKAI2202Location: Cambridge, UKStatus: Completed Project
 Project Overview
-This project is a complete practical demonstration of 14 common cybersecurity attacks, performed in a controlled, legal, and authorised environment. The goal was to understand how each attack works, how it is executed, what risks it poses, and how to defend against it. All tests were carried out on my own systems or dedicated lab environments — no unauthorised networks or devices were used.
-This work shows understanding of offensive security, vulnerabilities, exploitation techniques, and defence strategies — core skills in cybersecurity, ethical hacking, and network defence.
+his project is a complete practical demonstration of 14 common cybersecurity attacks, performed in a controlled, legal, and authorised environment. The goal was to understand how each attack works, how it is executed, what risks it poses, and how to defend against it. All tests were carried out on my own systems or dedicated lab environments — no unauthorised networks or devices were used.
+For machine learning-based intrusion detection and analysis, I used the Edge‑IIoTset Cyber Security Dataset, available at:https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot This dataset includes real IoT/IIoT traffic data and samples of all 14 attack types, enabling me to build, train, and test ML models to detect and classify threats.
+This work shows understanding of offensive security, vulnerabilities, exploitation techniques, defence strategies, and data‑driven threat detection — core skills in cybersecurity, ethical hacking, and network defence.
 Attacks Demonstrated
 Below is the full list of 14 attacks covered in this project, with clear explanations of what each one does:
 1. Footprinting & Reconnaissance
@@ -83,12 +84,11 @@ Web Testing: Burp Suite, OWASP ZAP
 Operating Systems: Kali Linux, Ubuntu, Windows
 Scripting: Basic Python & Bash for automation
 Repository Structure
+
 plaintext
 /
 ├── README.md                # This file — overview of the project
-├── Attack_Documentation.pdf # Full detailed report of all 14 attacks
-├── Attack_Scripts/          # Scripts, commands, and code used
-├── Screenshots/            # Proof and evidence of each attack
+├── results/            # Proof and evidence of each attack
 └── Data_preprocessing_and_training.py  # FULL PROJECT: all files, docs, and resources
 Note: All content here is for educational and ethical purposes only. No real external systems were targeted or harmed.
 Skills Demonstrated
