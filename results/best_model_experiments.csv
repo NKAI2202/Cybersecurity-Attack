@@ -1,0 +1,2 @@
+Model,Method,Watermark_Mode,Num_Rounds,Num_Clients,Watermark_Strength,F1_Score,Accuracy,Precision,Recall
+LightGBM,kbest,combined,16,5,0.1,0.7591764717050679,0.8055564688476081,0.7584719887342506,0.7952434625173547

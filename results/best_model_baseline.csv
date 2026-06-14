@@ -1,0 +1,2 @@
+Model,Method,Watermark_Mode,Num_Rounds,Num_Clients,Watermark_Strength,F1_Score,Accuracy,Precision,Recall
+XGBoost,kbest,none,20,5,0.0,0.897036012251985,0.930889363800756,0.893646842952548,0.914806495455534
